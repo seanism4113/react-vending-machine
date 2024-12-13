@@ -1,0 +1,31 @@
+.Chips {
+	height: 100vh;
+	max-width: 100%;
+	background-image: url("https://s7d6.scene7.com/is/image/bjs/275185003");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	margin: 0;
+	font-size: 30px;
+}
+
+.Chips-section {
+	background-color: rgb(19, 199, 19);
+	width: 400px;
+	height: 200px;
+	border-radius: 10px;
+	text-align: center;
+	padding: 10px;
+}
+
+.Chips-link {
+	color: rgb(114, 85, 209);
+}
+
+.Chips-link:hover {
+	color: blue;
+}

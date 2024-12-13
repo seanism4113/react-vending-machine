@@ -1,0 +1,32 @@
+.Soda {
+	height: 100vh;
+	max-width: 100%;
+	background-image: url("https://dynamicinventory.net/wp-content/uploads/2018/10/jonny-caspari-688763-unsplash.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	display: flex;
+	justify-content: center;
+	height: 100vh;
+	margin: 0;
+	font-size: 30px;
+	color: white;
+}
+
+.Soda-section {
+	background-color: rgb(45, 41, 41);
+	width: 500px;
+	height: 200px;
+	border-radius: 10px;
+	text-align: center;
+	padding: 10px;
+	margin-top: 100px;
+}
+
+.Soda-link {
+	color: rgb(114, 85, 209);
+}
+
+.Soda-link:hover {
+	color: blue;
+}
